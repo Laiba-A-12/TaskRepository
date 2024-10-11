@@ -1,0 +1,47 @@
+Python 3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print("Hello,World!")
+Hello,World!
+>>> print(5+3)
+8
+>>> print("Python","is","fun!")
+Python is fun!
+>>> print("She said,\"Hello!\"")
+She said,"Hello!"
+>>> print("First line\nSecond line")
+First line
+Second line
+>>> print("Item 1\tItem 2\tItem 3")
+Item 1  Item 2  Item 3
+>>> print("The result is",42)
+The result is 42
+>>> print(12345)
+12345
+>>> print(3.14159)
+3.14159
+>>> print("Dollar sign:$")
+Dollar sign:$
+>>> print("apple","banana","cherry",sep=",")
+apple,banana,cherry
+>>> print("Hello,",end="")
+Hello,>>> print("World!")
+World!
+>>> print("Python!"*3)
+Python!Python!Python!
+>>> print("\u2764")
+❤
+>>> print()
+
+>>> print("Hello"+"World!")
+HelloWorld!
+>>> print(True)
+True
+>>> print(False)
+False
+>>> print(1.2e3)
+1200.0
+>>> print("""This is a multiline print statement.""")
+This is a multiline print statement.
+>>> print("This is a backslash:\\")
+This is a backslash:\
+>>>
